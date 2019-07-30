@@ -13,6 +13,7 @@ This is the list of things Susana wants to learn:
 * HTML
 * Sistemas operativos
 * Redes
+![prueba](./docs/b_dbstatistics.png)
 
 
 
