@@ -5,8 +5,16 @@
 ![logo](./docs/logo.png)
 
 ---
-# Susana is learning.
+# Susana is learning
 Susana is begining to learn **markdown**
+
+This is the list of things Susana wants to learn:
+
+* HTML
+* Sistemas operativos
+* Redes
+
+
 
 
 ## Características
